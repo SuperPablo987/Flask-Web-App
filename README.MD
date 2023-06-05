@@ -1,3 +1,7 @@
-https://www.youtube.com/watch?v=dam0GPOAvVI
+Simple Flask App
 
-1:10:28
+Features: 
+
+Simple note taking (using SQLAlchemy)
+And Registering users
+Login (through Flask-login)
